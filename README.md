@@ -23,4 +23,4 @@ Your password is: aT$%bF(8)3gY2
 
 ## Customization
 - You can customize the character sets used to generate passwords by modifying the letters, numbers, and symbols lists in the script. Feel free to add or remove characters according to your security requirements.<br><br>
-- Feel free to use this Python script to generate strong and secure passwords easily. If you have any questions or suggestions, please don't hesitate to reach out or contribute to the project. Happy password generating!
+- Feel free to use this Python script to generate strong and secure passwords easily. If you have any questions or suggestions, please don't hesitate to reach out or contribute to the project.
